@@ -1,2 +1,2 @@
-# Types-of-Probability-Distribution-in-Python
+# Types-of-Probability-Distributions-in-Python
 This repo contains Probability Distributions types such as Geometric Distribution, Discrete Uniform Distribution, Bernoulli Distribution, Binomial Distribution, Hyper Geometric Distribution, Poisson Distribution, Negative Binomial Distribution, Multinomial Dustribution, Exponential Distribution, Weibull Distribution, Normal Dirstibution, Beta Distribution, Continuous Uniform Distribution, Traingular Distribution, Logistic Distribution, Gamma Distribution, Cauchy Distribution &amp; Lognormal Distribution
